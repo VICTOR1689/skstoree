@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>SKStore </title>
+</head>
+
+<body bgcolor="black" text="white"> <h1><center>bienvenido a SKStore<center></h1>
+<img src"as.png">
+<center><table>
+<tr>
+<td></td>
+<td>descarga nuestra app</td>
+</tr>
+</table><center>
+<img src="as.png">
+<body>
+<html>
+<h1><a href="http:google.com">descargar</a></h1>
